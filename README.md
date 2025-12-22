@@ -25,3 +25,7 @@ Online Retail Dataset (Kaggle)
 
 ## Dashboard
 ![Dashboard](powerbi_sales_dashboard.png)
+
+## Conclusion
+This project analyzes e-commerce sales data using **SQL and Power BI** to deliver clear, interactive business insights. The dashboard highlights **Q4 seasonal sales growth**, identifies the **UK as the primary revenue contributor**, and shows that **a small set of products drives most revenue**. It demonstrates practical skills in data analysis, visualization, and business-focused reporting.
+
